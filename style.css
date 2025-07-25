@@ -1,0 +1,71 @@
+
+body {
+    background-color: #00000000; 
+    color: #f5f5f5;         
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: url(https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/characters-of-attack-on-titan-season-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+}  
+
+h2 {
+    color: #ff4444;
+    margin-top: 30px;
+    text-transform: uppercase;
+}
+
+p, li, label, legend {
+    font-size: 16px;
+    color: #e0e0e0;
+}
+
+a {
+    color: #a50a04;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0c0cbe;
+    text-decoration: underline;
+}
+a:active {
+color: #e0e0e0;
+}
+
+img {
+    border: 3px solid #444;
+    border-radius: 10px;
+    margin: 10px 10px 20px 0;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+ul, ol {
+    background-color: #0a090a;
+    padding: 15px 25px;
+    border-radius: 10px;
+    list-style-position: inside;
+    margin-bottom: 30px;
+}
+
+fieldset {
+    margin: 20px 0;
+    padding: 20px;
+    border: 2px solid #1717f5;
+    border-radius: 10px;
+    background-color: #0c0c0c;
+}
+
+legend {
+    font-weight: bold;
+    color: #f8690a;
+}
+
+input[type="text"]
+
+    
